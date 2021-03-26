@@ -4,6 +4,6 @@
 
 int main(){
 
-
+    printf("Teste do git");
     
 }
